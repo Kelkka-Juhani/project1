@@ -1,3 +1,5 @@
+index.html
+You can choose here, english(this project) original page or go social media
 main.html
 Nothing special to mention, just wanted to keep it clean and simple.
 menu.html
